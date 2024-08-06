@@ -33,7 +33,7 @@ body {
    max-width: 350px;
    border-radius: 1rem;
    margin: 1rem;
-   box-shadow: 0 0rem 1rem var(--Very-dark-blue-cardBG), 0 1.5rem 0.75rem var(--Very-dark-blue-mainBG);
+   box-shadow: 0 1.5rem 0.75rem var(--Very-dark-blue-mainBG);
 }
 
 .container .image {
